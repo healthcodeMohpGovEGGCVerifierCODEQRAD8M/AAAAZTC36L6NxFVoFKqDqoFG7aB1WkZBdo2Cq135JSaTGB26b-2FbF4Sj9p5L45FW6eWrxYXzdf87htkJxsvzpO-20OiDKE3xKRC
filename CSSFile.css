@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'myFont';
+    src: url(EncodeSansExpanded-Regular.ttf);
+  }
+
+  .pp1,.pp2,.pp3,.nav-menu,.textsALL2{
+      font-family:myFont ;
+  }
+
+  #errorNO{
+    display: none;
+  }
+
+  
